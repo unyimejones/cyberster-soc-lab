@@ -79,7 +79,7 @@ configuration, and executive security reporting.
 ## 📄 Weekly Reports
 | Week | Focus | Report |
 |---|---|---|
-| Week 1 | Lab Setup & SIEM Foundation | [View](./reports/week1-report.md) |
+| Week 1 | Lab Setup & SIEM Foundation | [View]Week1_Report_Cyberster_1.docx |
 | Week 2 | Detection Rules & FIM | [View](./reports/week2-report.md) |
 | Week 3 | IDS & GeoIP Blocking | [View](./reports/week3-report.md) |
 | Week 4 | Advanced Integrations | [View](./reports/week4-report.md) |
